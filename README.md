@@ -1,3 +1,5 @@
+![](https://github.com/xfcisco/OxideWM/blob/main/oxidewm-v2.png?raw=true)
+
 # ✨ OxideWM ✨
 A fancy window manager written in [zig](https://ziglang.org/)
 
