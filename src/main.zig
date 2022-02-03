@@ -1,7 +1,4 @@
-const ox11 = @import("ox11");
+const ox11 = @import("ox11/ox11.zig");
 const std = @import("std");
 
-
-pub fn main() anyerror!void {
-    std.log.info("All your codebase are belong to us.", .{});
-}
+pub fn main() anyerror!void {}
